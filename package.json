@@ -1,5 +1,5 @@
 {
-  "name": "Socketsaurus",
+  "name": "socketsaurus",
   "description": "Node module for Socketsaurus",
   "version": "0.0.1",
   "dependencies": {
