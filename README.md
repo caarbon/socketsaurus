@@ -2,6 +2,12 @@
 
 Socketsaurus exposes changes in your Mongoose collections, via sockets.
 
+## NPM
+
+```
+npm install socketsaurus --save
+```
+
 ## Usage
 
 Call Socketsaurus with your config, and it will return you a function that you can use to expose collections.
