@@ -138,3 +138,7 @@ var expose = socketsaurus(io, {
   }
 });
 ```
+
+## Lint
+
+To lint the code, first `npm install` the dev dependencies, and then run `grunt lint`.
