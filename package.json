@@ -2,7 +2,11 @@
   "name": "Socketsaurus",
   "description": "Node module for Socketsaurus",
   "version": "0.0.1",
-  "dependencies": {},
+  "dependencies": {
+    "async": "0.9.0",
+    "mongoose": "3.8.21",
+    "reactive-mongo": "0.0.2"
+  },
   "devDependencies": {
     "grunt": "0.4.5",
     "grunt-concurrent": "1.0.0",
