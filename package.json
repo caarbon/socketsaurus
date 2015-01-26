@@ -16,5 +16,9 @@
     "matchdep": "0.3.0"
   },
   "main": "./lib",
-  "repository": "git://github.com/caarbon/socketsaurus"
+  "homepage": "https://github.com/caarbon/socketsaurus",
+  "repository": "git://github.com/caarbon/socketsaurus",
+  "bugs": "https://github.com/caarbon/socketsaurus/issues",
+  "license": "ISC",
+  "keywords": ["socket", "events", "oplog", "mongodb", "mongoose"]
 }
