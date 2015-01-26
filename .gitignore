@@ -1,0 +1,8 @@
+.DS_Store
+**/.DS_Store
+*.log
+ignore/**
+nohup.out
+nodemon.json
+npm_debug.log
+node_modules
