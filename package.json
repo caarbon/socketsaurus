@@ -2,6 +2,9 @@
   "name": "socketsaurus",
   "description": "Node module for Socketsaurus",
   "version": "0.0.1",
+  "scripts": {
+    "test": "grunt lint"
+  },
   "dependencies": {
     "async": "0.9.0",
     "mongoose": "3.8.21",
