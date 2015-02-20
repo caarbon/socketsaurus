@@ -1,8 +1,6 @@
-# Socketsaurus
+# Socketsaurus [![Circle CI](https://circleci.com/gh/caarbon/socketsaurus.svg?style=svg)](https://circleci.com/gh/caarbon/socketsaurus)
 
 Socketsaurus exposes changes in your Mongoose collections, via sockets.
-
-[![Circle CI](https://circleci.com/gh/caarbon/socketsaurus.svg?style=svg)](https://circleci.com/gh/caarbon/socketsaurus)
 
 ## NPM
 
