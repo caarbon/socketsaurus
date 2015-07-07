@@ -8,7 +8,8 @@
   "dependencies": {
     "async": "0.9.0",
     "mongoose": "3.8.21",
-    "reactive-mongo": "0.0.2"
+    "reactive-mongo": "0.0.2",
+    "picu": "0.3.0"
   },
   "devDependencies": {
     "grunt": "0.4.5",
